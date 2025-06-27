@@ -14,9 +14,11 @@ This project implements a spam detection system using **Deep Learning** and **Na
 
 ---
 
-## 📂 Dataset
+## 📦 Dataset
 
-Dataset used: [SMS Spam Collection Dataset (UCI)]([https://archive.ics.uci.edu/ml/datasets/sms+spam+collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset))
+This project uses the **SMS Spam Collection Dataset**, also available on Kaggle.
+
+📥 **Kaggle Dataset**: [SMS Spam Collection Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 
 
